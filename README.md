@@ -19,9 +19,9 @@ Do you have some interesting projects to share and open for collaboration? Let's
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <a href="https://github.com/futureofmohammad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=futureofmohammad&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Mohammad's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdabdulkader&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Mohammad's github stats" />
 </a>
 </br>
 <a href="https://github.com/futureofmohammad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futureofmohammad&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdabdulkader&layout=compact&theme=material-palenight" />
 </a>
