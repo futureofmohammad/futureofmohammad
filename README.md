@@ -17,6 +17,8 @@ Do you have some interesting projects to share and open for collaboration? Let's
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Dart-181717?style=flat-square&logo=dart)
+
 
 <a href="https://github.com/futureofmohammad/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdabdulkader&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Mohammad's github stats" />
